@@ -18,4 +18,5 @@ This projects aims to analyse the below metrics to identify inefficiences and re
 2) Days sales of Inventory
 3) Inventory turnover ratio
 
-https://github.com/sksandeep1805/Projects/blob/main/Inventory%20Management.jpg
+<img [src](https://github.com/sksandeep1805/Projects/blob/main/Inventory%20Management.jpg)="" alt="">
+
